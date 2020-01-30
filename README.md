@@ -1,2 +1,2 @@
 # Jezreel42.github.io
-CV Site
+CV Site - on development (and learning html)
